@@ -1,7 +1,7 @@
 enforce_secure_profile: false
 listeners:
 - query_port: 25577
-  motd: '&1Another Bungee server'
+  motd: Urban Space Potato'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
@@ -45,6 +45,7 @@ disabled_commands:
 - disabledcommandhere
 servers:
   lobby:
-    motd: '&1Just another Waterfall - Forced Host'
+    motd: Probaly The &e&o1st &6&lEaglercraft &9&lSchool Server! &0&k&n4pple Pie is
+      always watching
     address: localhost:25565
     restricted: false
